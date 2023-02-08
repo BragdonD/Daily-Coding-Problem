@@ -84,4 +84,3 @@ int main(int argc, char const *argv[])
     std::cout << temp->get_subtree() << std::endl;
     return 0;
 }
-
